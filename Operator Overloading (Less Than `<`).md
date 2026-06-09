@@ -22,6 +22,8 @@ To write a Python program that demonstrates **operator overloading** by overload
 
 ## 💻 Program
 ```
+NAME: RAMSANJAY C
+REG NO : 212224220077
 class A:
     def __init__(self,a):
         self.a=a
