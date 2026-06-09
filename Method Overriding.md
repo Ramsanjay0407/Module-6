@@ -15,6 +15,8 @@ To write a Python program that demonstrates class inheritance by creating a pare
 
 ## 💻 PROGRAM:
 ```
+NAME: RAMSANJAY C
+REG NO : 212224220077
 class Fish:
     def type(self):
         print("fish")
