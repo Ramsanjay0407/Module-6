@@ -23,6 +23,8 @@ To create two specific classes — `Beans` and `Mango`. Then, create a **generic
 
 ## 💻 Program
 ```
+NAME: RAMSANJAY C
+REG NO : 212224220077
 class Beans(): 
      def type(self): 
        print("Vegetable") 
