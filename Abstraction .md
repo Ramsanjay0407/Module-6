@@ -26,6 +26,8 @@ To create an **abstract class** named `Shape` with an **abstract method** `calcu
 
 ## 💻 Program
 ```
+NAME: RAMSANJAY C
+REG NO : 212224220077
 from abc import ABC
 class Shape(ABC):
     def calculate_area(self):
